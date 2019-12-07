@@ -23,14 +23,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (DEC 2019 to MAR 2020)
+#### Makers Academy (Dec 2019 to Mar 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Auburn University (AUG 2008 to MAY 2012)
+#### Auburn University (Aug 2008 to May 2012)
 
 - Bachelors of Science in Business Administration
 - Major: Accounting
@@ -44,16 +44,16 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Affiance Collection** (MAR 2019 to Present)    
+**Affiance Collection** (Mar 2019 to Present)    
 *Co-founder/CEO*  
 - Launched an e-commerce store for wedding accessories after identifying a gap in the online market for mid-priced bridal pieces. 
 - Use basics of HTML, CSS, and Liquid on Shopify website.
 - Built an A.I. tool using Google Vision, _____ and _____ to analyze an image of the user’s wedding dress and give them personalized recommendations for wedding accessories sold by my store.
 - Handle all aspects of the business including strategy, advertising, financial management, web development, customer service and negotiations with suppliers.
 
-**Omnicom Diversified Agency Solutions** (JAN 2014 to SEP 2018) 
-*New York, NY*
-*Senior Financial Analyst - Omnicom Public Relations* (JUN 2015 to SEP 2018)
+**Omnicom Diversified Agency Solutions** (Jan 2014 to Sep 2018)    
+New York, NY  
+*Senior Financial Analyst - Omnicom Public Relations* (Jun 2015 to Sep 2018)  
 - First introduction to coding through VBA and building Excel Macros. Pionered the use of both within my team. 
 - Support CFO in management of $1.2B Public Relations division and act as liaison to agencies.
 - Build and manage Excel models using Smart View and VBA to access Hyperion data and facilitate various analysis including: KPIs, P&Ls, agency-to-agency comparisons, headcount, trending. 
@@ -62,17 +62,17 @@ That in some arguable way make you a better software developer or well-rounded p
 - Analysis of agency financial documents, including: Financial Reporting Packages, yearly plans, monthly P&L actuals, re-forecasts, and Working Capital.
 - Manage agency process re-engineering by evaluating current operations, identifying issues and roadblocks, and creating plans for optimize and automate various processes.
 
-*Financial Analyst - Accounting Mercury Public Affairs* (JAN 2014 - MAY 2015)
+*Financial Analyst - Accounting Mercury Public Affairs* (Jan 2014 - May 2015)
 - Work closely with account managers and senior management on client revenue and communicate directly with clients regarding contracts and payment terms and status.
 - Build and implement Excel-based tool, using VBA and Smart View, to improve monthly working capital submission. Reduced manual data manipulation and submission time from two days to three hours.
 - Manage Accounts Receivable for over 350 clients.
 -	Handle multiple aspects of financial reporting including: month end close, financial statements, gains & losses, working capital, bank/cash reconciliations, Sarbanes Oxley testing, A/R reporting, and revenue estimating.
 
-**Omnicom Diversified Agency Solutions** (MAY 2010 to DEC 2013) 
-*Washington, DC & Boston, MA*
-*Business Manager / Proposal Analyst* (MAY 2012 to DEC 2013)
-*Finance Intern* (MAY 2010 - MAY 2012)
-*Department of Defence Security Clearance Level: Secret*
+**Omnicom Diversified Agency Solutions** (May 2010 to Dec 2013)  
+Washington, DC & Boston, MA  
+*Business Manager / Proposal Analyst* (May 2012 to Dec 2013)  
+*Finance Intern* (May 2010 - May 2012)  
+*Department of Defence Security Clearance Level: Secret*  
 - Proposal pricing lead supporting a cross-functional team, including Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals totaling over $1B.
 - Strong working knowledge of web and Excel-based pricing and estimating tools. Provide training and support to new employees.
 - Member of select team tasked with creating and implementing a company-wide proposal tracking system.
