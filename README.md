@@ -60,8 +60,7 @@ I love working cross-functionally. Understanding how each part of the business o
 - Handle all aspects of the business including strategy, advertising, financial management, web development, customer service and negotiations with suppliers.
 
 **Omnicom Diversified Agency Solutions** (Jan 2014 to Sep 2018)    
-New York, NY  
-*Senior Financial Analyst - Omnicom Public Relations* (Jun 2015 to Sep 2018)  
+*Senior Financial Analyst*  
 - First introduction to coding through VBA and building Excel Macros. Pionered the use of both within my team. 
 - Support CFO in management of $1.2B Public Relations division and act as liaison to agencies.
 - Build and manage Excel models using Smart View and VBA to access Hyperion data and facilitate various analysis including: KPIs, P&Ls, agency-to-agency comparisons, headcount, trending. 
@@ -70,17 +69,8 @@ New York, NY
 - Analysis of agency financial documents, including: Financial Reporting Packages, yearly plans, monthly P&L actuals, re-forecasts, and Working Capital.
 - Manage agency process re-engineering by evaluating current operations, identifying issues and roadblocks, and creating plans for optimize and automate various processes.
 
-*Financial Analyst - Accounting Mercury Public Affairs* (Jan 2014 - May 2015)
-- Work closely with account managers and senior management on client revenue and communicate directly with clients regarding contracts and payment terms and status.
-- Build and implement Excel-based tool, using VBA and Smart View, to improve monthly working capital submission. Reduced manual data manipulation and submission time from two days to three hours.
-- Manage Accounts Receivable for over 350 clients.
--	Handle multiple aspects of financial reporting including: month end close, financial statements, gains & losses, working capital, bank/cash reconciliations, Sarbanes Oxley testing, A/R reporting, and revenue estimating.
-
-**Omnicom Diversified Agency Solutions** (May 2010 to Dec 2013)  
-Washington, DC & Boston, MA  
-*Business Manager / Proposal Analyst* (May 2012 to Dec 2013)  
-*Finance Intern* (May 2010 - May 2012)  
-*DoD Security Clearance Level: Secret*  
+**Raytheon Company** (May 2010 to Dec 2013)  
+*Business Manager / Proposal Analyst*   
 - Proposal pricing lead supporting a cross-functional team, including Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals totaling over $1B.
 - Strong working knowledge of web and Excel-based pricing and estimating tools. Provide training and support to new employees.
 - Member of select team tasked with creating and implementing a company-wide proposal tracking system.
@@ -90,6 +80,6 @@ Washington, DC & Boston, MA
 
 ## Hobbies
 
-- Volunteering: On the weekends I run production for an organization (lights, sound, videos, etc.)
+- Volunteering: On the weekends I run production for a non-profit organisation (lights, sound, videos, etc.)
 - Cooking & Baking: I make a mean white chocolate caramel fudge brownie.
 - Podcasts: Stuff You Should Know, Hidden Brain, CodeNewbie, Freakonomics & more
