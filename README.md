@@ -1,6 +1,6 @@
 ## MEGHAN IANKOV
 
-A juninor developer with a passion for solving puzzles, building things, and using data to tell a story. During my 8+ years in corporate finance and experience with starting an e-commerce business, I have fallen in love with coding and programming. It started with VBA to build Excel macros, then dabbling with using HTML, CSS, and Liquid for my company's website, and then finally with experienting with A.I. to create a tool for my business. Along the way I have been building the foundation for a career in tech. 
+A junior developer with a passion for solving puzzles, building things, and using data to tell a story. During my 8+ years in corporate finance and experience with starting an e-commerce business, I have fallen in love with coding and programming. It started with VBA to build Excel macros, then HTML, CSS, and Liquid for my company's website, and then finally experimenting  with A.I. to create a tool for my business. Along the way I have been building the foundation for a career in tech. 
 
 My goal now is to build a career in software development, where I can be challenged daily to solve problems and build exciting things.
 
@@ -15,19 +15,19 @@ I am a highly analytical person. I get really excited about spreadsheets and dat
 #### Problem Solving
 - Taught myself VBA in order to build Excel tools to reduce manual data manipulation and increase time available for analysis.
 - I wanted a tool to analyze wedding dress pictures and return personalized bridal accessories. Nothing like that existed, so I built one using A.I.
-- Managed agency process re-egineering: evaluating current operations, identifying issues and roadblocks, and creating plans for optimize and automate various processes, specificially around their technologies and systems.
+- Managed agency process re-engineering: evaluating current operations, identifying issues and roadblocks, and creating plans for optimize and automate various processes, specificially around their technologies and systems.
 
 ###
 
 #### Entrepreneurial  
 
-I have started two businesses in the past two years. he first was a company that held virtual reality events at bars and restraunts around New York City. The second, and most recent, was an e-commerce store focusing on wedding accessories. In both cases, I knew nothing about the industries but I saw a market need and learned all of the skills I needed along the way.
+I have started two businesses in the past two years. he first was a company that held virtual reality events at bars and restaurants around New York City. The second, and most recent, was an e-commerce store focusing on wedding accessories. In both cases, although I knew nothing about the industries, I saw a market need and learned all of the skills I needed along the way.
 
 ###
 
 #### Teamwork & Communication  
 
-I love working cross-functionally. Understanding how each part of the business operations and their unique needs and challenges is the key using your role to most effectively help the company acheive it's goals.  
+I love working cross-functionally. Understanding how each part of the business operations and their unique needs and challenges is the key using your role to most effectively help the company achieve it's goals.  
 - At Raytheon, I continually supported a team that included Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals  
 - At Omnicom, I oversaw a portfolio of 154 global agencies and was responsible for managing the needs of both teams at the individual agencies and of corporate.
 
@@ -47,7 +47,7 @@ I love working cross-functionally. Understanding how each part of the business o
 - Major: Accounting
 - GPA: 3.34 (equivalent to _____)
 - Treasurer for multiple organizations
-- Full time internship during holidays, continued part-time remotely during school term. Ultimitely hired by that employeer post-gradutaion.
+- Full time internship during holidays, continued part-time remotely during school term. Ultimately hired by that employer post-graduation
 
 
 ## Experience
@@ -56,7 +56,7 @@ I love working cross-functionally. Understanding how each part of the business o
 *Co-founder/CEO*  
 - Launched an e-commerce store for wedding accessories after identifying a gap in the online market for mid-priced bridal pieces. 
 - Use basics of HTML, CSS, and Liquid on Shopify website.
-- Built an A.I. tool using Google Vision, _____ and _____ to analyze an image of the user’s wedding dress and give them personalized recommendations for wedding accessories sold by my store.
+- Built an A.I. tool, using Google Vision and Firebase, to analyze an image of the user’s wedding dress and give them personalized recommendations for wedding accessories sold by my store.
 - Handle all aspects of the business including strategy, advertising, financial management, web development, customer service and negotiations with suppliers.
 
 **Omnicom Diversified Agency Solutions** (Jan 2014 to Sep 2018)    
@@ -80,7 +80,7 @@ New York, NY
 Washington, DC & Boston, MA  
 *Business Manager / Proposal Analyst* (May 2012 to Dec 2013)  
 *Finance Intern* (May 2010 - May 2012)  
-*Department of Defence Security Clearance Level: Secret*  
+*DoD Security Clearance Level: Secret*  
 - Proposal pricing lead supporting a cross-functional team, including Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals totaling over $1B.
 - Strong working knowledge of web and Excel-based pricing and estimating tools. Provide training and support to new employees.
 - Member of select team tasked with creating and implementing a company-wide proposal tracking system.
