@@ -1,25 +1,36 @@
 ## MEGHAN IANKOV
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A juninor developer with a passion for solving puzzles, building things, and using data to tell a story. During my 8+ years in corporate finance and experience with starting an e-commerce business, I have fallen in love with coding and programming. It started with VBA to build Excel macros, then dabbling with using HTML, CSS, and Liquid for my company's website, and then finally with experienting with A.I. to create a tool for my business. Along the way I have been building the foundation for a career in tech. 
+
+My goal now is to build a career in software development, where I can be challenged daily to solve problems and build exciting things.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Creatively Analytical  
 
-#### This Skill
+I am a highly analytical person. I get really excited about spreadsheets and data sets. However, I know most people aren't like that. During my career in corporate finance, I learned to use numbers and data to help tell a story that everyone could understand. I used raw data to extract insights and built dashboards and other models to create visual representations of those insights.
 
-- Experience
-- Achievements
-- Evidence
+###
 
-#### Another Skill
+#### Problem Solving
+- Taught myself VBA in order to build Excel tools to reduce manual data manipulation and increase time available for analysis.
+- I wanted a tool to analyze wedding dress pictures and return personalized bridal accessories. Nothing like that existed, so I built one using A.I.
+- Managed agency process re-egineering: evaluating current operations, identifying issues and roadblocks, and creating plans for optimize and automate various processes, specificially around their technologies and systems.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+###
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Entrepreneurial  
+
+I have started two businesses in the past two years. he first was a company that held virtual reality events at bars and restraunts around New York City. The second, and most recent, was an e-commerce store focusing on wedding accessories. In both cases, I knew nothing about the industries but I saw a market need and learned all of the skills I needed along the way.
+
+###
+
+#### Teamwork & Communication  
+
+I love working cross-functionally. Understanding how each part of the business operations and their unique needs and challenges is the key using your role to most effectively help the company acheive it's goals.  
+- At Raytheon, I continually supported a team that included Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals  
+- At Omnicom, I oversaw a portfolio of 154 global agencies and was responsible for managing the needs of both teams at the individual agencies and of corporate.
+
 
 ## Education
 
@@ -35,12 +46,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Bachelors of Science in Business Administration
 - Major: Accounting
 - GPA: 3.34 (equivalent to _____)
-- Treasurer for social sorority
+- Treasurer for multiple organizations
 - Full time internship during holidays, continued part-time remotely during school term. Ultimitely hired by that employeer post-gradutaion.
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
@@ -82,4 +90,6 @@ Washington, DC & Boston, MA
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Volunteering: On the weekends I run production for an organization (lights, sound, videos, etc.)
+- Cooking & Baking: I make a mean white chocolate caramel fudge brownie.
+- Podcasts: Stuff You Should Know, Hidden Brain, CodeNewbie, Freakonomics & more
