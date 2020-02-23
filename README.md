@@ -1,4 +1,6 @@
 # MEGHAN IANKOV
+[PROJECTS](https://github.com/meghaniankov/CV/blob/master/README.md#projects) | [SKILLS](https://github.com/meghaniankov/CV/blob/master/README.md#skills) | [EDUCATION](https://github.com/meghaniankov/CV/blob/master/README.md#education) | [EXPERIENCE](https://github.com/meghaniankov/CV/blob/master/README.md#experience)
+
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-300%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-221%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-216%20commits-orange.svg" alt=""></a>
@@ -11,6 +13,8 @@ My goal is to build a career in software development, where I can be challenged 
 
 ## Background
 Before starting [Makers](https://makers.tech/), I worked for 8+ years in Corporate Finance, using VBA to build Excel macros every chance I could. I left finance to start an e-commerce business, where I did basic front-end design for my website. Eventually I started [experimenting with A.I.](https://shopaffiance.com/pages/affiance-intelligence) to create a tool from my business and that's when the programming bug really bit me!
+
+## Projects
 
 ## Skills
 
