@@ -1,4 +1,9 @@
-## MEGHAN IANKOV
+# MEGHAN IANKOV
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-300%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-221%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-216%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/CSS-208%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-66%20commits-orange.svg" alt=""></a>
 
 A junior developer with a passion for solving puzzles, building things, and using data to tell a story. During my 8+ years in corporate finance and experience with starting an e-commerce business, I have fallen in love with coding and programming. It started with VBA to build Excel macros, then HTML, CSS, and Liquid for my company's website, and then finally experimenting  with A.I. to create a tool for my business. Along the way I have been building the foundation for a career in tech. 
 
@@ -30,7 +35,6 @@ I have started two businesses in the past two years. he first was a company that
 I love working cross-functionally. Understanding how each part of the business operations and their unique needs and challenges is the key using your role to most effectively help the company achieve it's goals.  
 - At Raytheon, I continually supported a team that included Engineering, Sales, Contracts, HR, Supply Chain, and Finance, on a range of business development proposals  
 - At Omnicom, I oversaw a portfolio of 154 global agencies and was responsible for managing the needs of both teams at the individual agencies and of corporate.
-
 
 ## Education
 
