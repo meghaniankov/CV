@@ -1,13 +1,13 @@
 # MEGHAN IANKOV
 [PROJECTS](https://github.com/meghaniankov/CV/blob/master/README.md#projects) | [SKILLS](https://github.com/meghaniankov/CV/blob/master/README.md#skills) | [EDUCATION](https://github.com/meghaniankov/CV/blob/master/README.md#education) | [EXPERIENCE](https://github.com/meghaniankov/CV/blob/master/README.md#experience)
 
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-300%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-221%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-216%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/CSS-208%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-66%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-417%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-298%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-257%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/CSS-232%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-144%20commits-orange.svg" alt=""></a>
 
-A junior developer with a passion for solving puzzles, building things, and using data to tell a story. 
+A junior software engineer with a passion for solving puzzles, building things, and using data to tell a story. 
 
 My goal is to build a career in software development, where I can be challenged daily to solve problems and build exciting things.
 
@@ -15,6 +15,12 @@ My goal is to build a career in software development, where I can be challenged 
 Before starting [Makers](https://makers.tech/), I worked for 8+ years in Corporate Finance, using VBA to build Excel macros every chance I could. I left finance to start an e-commerce business, where I did basic front-end design for my website. Eventually I started [experimenting with A.I.](https://shopaffiance.com/pages/affiance-intelligence) to create a tool from my business and that's when the programming bug really bit me!
 
 ## Projects
+
+| Name        | Description           | Technologies  |
+| ------------- |:-------------:| :-----:|
+| [Bank](https://github.com/meghaniankov/bank-tech-test) & [Guilded Rose](https://github.com/meghaniankov/gilded-rose-tech-test) Tech Tests | Practice tech tests demonstrating my mastery of OOP and TDD.  | Ruby, RSpec |
+| [Catbook](https://github.com/meghaniankov/acebook-catbook-inc)      | Facebook clone built as a group project over two weeks. Demonstrates my ability to work as part of a team in an agile environment to produce a product.      |   Ruby, Rails, RSpec, HTML/CSS, Heroku, Rubocop, Travis CI  |
+| [News Summary App](https://github.com/meghaniankov/news-summary-challenge) | Individual challenge to build a single page Javascript app (with no frameworks) connected to two APIs. Built my own testing framework.       |    Javascript, HTML/CSS |
 
 ## Skills
 
