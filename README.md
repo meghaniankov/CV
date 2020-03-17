@@ -32,7 +32,7 @@ I am a highly analytical person. I get really excited about spreadsheets and dat
 ###
 
 #### Problem Solving
-I love using technology to solve problems. I taught myself VBA in order to build Excel tools to automate repetive tasks for my team. I wanted a tool to analyze wedding dress pictures and return personalized bridal accessories. Nothing like that existed, so I built one.
+I love using technology to solve problems. I taught myself VBA in order to build Excel tools to automate repetitive tasks for my team. I wanted a tool to analyze wedding dress pictures and return personalized bridal accessories. Nothing like that existed, so I built one.
 ###
 
 #### Entrepreneurial  
