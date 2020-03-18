@@ -25,6 +25,12 @@ Before starting [Makers](https://makers.tech/), I worked for 8+ years in Corpora
 
 ## Skills
 
+#### Business Minded  
+
+I studied business in university and have worked in various corporate roles during my career. I love working cross-functionally. Understanding how each part of the business operates and their unique needs and challenges is the key using your role to most effectively help the company achieve it's goals.  
+
+###
+
 #### Creatively Analytical  
 
 I am a highly analytical person. I get really excited about spreadsheets and data sets. I love using numbers and data to help tell a story that everyone can understand.
@@ -38,12 +44,6 @@ I love using technology to solve problems. I taught myself VBA in order to build
 #### Entrepreneurial  
 
 I have started two businesses in the past two years. The first was a company that held virtual reality events at bars around New York City. The second, and most recent, was an e-commerce store focusing on wedding accessories. In both cases, although I knew nothing about the industries, I saw a market need and learned all of the skills I needed along the way.
-
-###
-
-#### Teamwork & Communication  
-
-I love working cross-functionally. Understanding how each part of the business operations and their unique needs and challenges is the key using your role to most effectively help the company achieve it's goals.  
 
 ## Education
 
