@@ -18,16 +18,17 @@ Before starting [Makers](https://makers.tech/), I worked for 8+ years in Corpora
 ## Projects
 
 | Name        | Description           | Technologies  |
-| ------------- |:-------------:| :-----:|
+| --------------- |:-------------:| :-----:|
 | [Bank](https://github.com/meghaniankov/bank-tech-test) & [Guilded Rose](https://github.com/meghaniankov/gilded-rose-tech-test) Tech Tests | Practice tech tests demonstrating my mastery of OOP and TDD.  | Ruby, RSpec |
 | [Catbook](https://github.com/meghaniankov/acebook-catbook-inc)      | Facebook clone built as a group project over two weeks. Demonstrates my ability to work as part of a team in an agile environment to produce a product.      |   Ruby, Rails, RSpec, HTML/CSS, Heroku, Rubocop, Travis CI  |
 | [News Summary App](https://github.com/meghaniankov/news-summary-challenge) | Individual challenge to build a single page Javascript app (with no frameworks) connected to two APIs. Built my own testing framework.       |    Javascript, HTML/CSS |
+| [FinBot](https://github.com/meghaniankov/finbot-api) | Chatbot focused on personal finance. We challenged ourselves to learn a new language (Python), two new frameworks (React, Django), and a new field (natural language processing/machine learning) in two weeks.| React, Python, Django, CSS, Heroku |
 
 ## Skills
 
 #### Business Minded  
 
-I studied business in university and have worked in various corporate roles during my career. I love working cross-functionally. Understanding how each part of the business operates and their unique needs and challenges is the key using your role to most effectively help the company achieve it's goals.  
+I studied business in university and have worked in various corporate roles during my career. I love working cross-functionally. I enjoy learning how each part of the business operates. Understanding their unique needs and challenges is key to using my role to most effectively help the company achieve it's goals.  
 
 ###
 
@@ -39,6 +40,7 @@ I am a highly analytical person. I get really excited about spreadsheets and dat
 
 #### Problem Solving
 I love using technology to solve problems. I taught myself VBA in order to build Excel tools to automate repetitive tasks for my team. I wanted a tool to analyze wedding dress pictures and return personalized bridal accessories. Nothing like that existed, so I built one.
+
 ###
 
 #### Entrepreneurial  
@@ -61,7 +63,7 @@ I have started two businesses in the past two years. The first was a company tha
 
 ## Experience
 
-**Affiance Collection** (Mar 2019 to Present)    
+**Affiance Collection** (Jan 2019 to Present)    
 *Co-founder/CEO*  
 - Launched an e-commerce store for wedding accessories after identifying a gap in the online market for mid-priced bridal pieces. 
 - Use basics of HTML, CSS, and Liquid on Shopify website.
