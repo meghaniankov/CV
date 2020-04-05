@@ -1,7 +1,7 @@
 # MEGHAN IANKOV
 [PROJECTS](https://github.com/meghaniankov/CV/blob/master/README.md#projects) | [SKILLS](https://github.com/meghaniankov/CV/blob/master/README.md#skills) | [EDUCATION](https://github.com/meghaniankov/CV/blob/master/README.md#education) | [EXPERIENCE](https://github.com/meghaniankov/CV/blob/master/README.md#experience)
 
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-423%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-423%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-422%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Python-122%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-150%20commits-red.svg" alt=""></a>
