@@ -1,12 +1,12 @@
 # MEGHAN IANKOV
 [PROJECTS](https://github.com/meghaniankov/CV/blob/master/README.md#projects) | [SKILLS](https://github.com/meghaniankov/CV/blob/master/README.md#skills) | [EDUCATION](https://github.com/meghaniankov/CV/blob/master/README.md#education) | [EXPERIENCE](https://github.com/meghaniankov/CV/blob/master/README.md#experience)
 
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-417%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-330%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-257%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/CSS-232%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-144%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Python-84%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/JavaScript-423%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Ruby-422%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/Python-122%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/HTML-372%20commits-grey.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/CSS-304%20commits-grey.svg" alt=""></a>
+<a href="https://sourcerer.io/meghaniankov"><img src="https://img.shields.io/badge/SQL-150%20commits-grey.svg" alt=""></a>
 
 A junior software engineer with a passion for solving puzzles, building things, and using data to tell a story. 
 
